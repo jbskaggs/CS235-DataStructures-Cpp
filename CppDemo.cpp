@@ -37,5 +37,59 @@ int main(int argc, char *argv[]) {
 ////    How do you convert from a string to an int?
 
 
+////    What's a class? What's an object? What's contained inside an object?
+
+
+////    What's a constructor?  Why use initializers instead of assignment statements?
+
+
+////    What's a getter? Why are getters declared const?
+
+
+////    What's a setter? Where's the implementation for the setters?
+
+
+////    What's a common file structure for C++ classes?
+
+
+////    What's the scope resolution operation?
+
+
+////    What's the 'this' pointer?
+
+
+////    How do you test a class?
+
+
+////    What happens if Book is included twice?
+
+
+////    How do you fix this problem?
+
+
+
+
+////    How should the data inside an object be protected?
+
+
+////    instance variables should be declared private
+
+
+////    How can you access the data in an object if the data is private?
+
+
+////    Lists of Books
+
+
+////    How do you make a list of objects?
+
+
+////    How do you sort a list of objects?
+
+
+////    What operation is needed in the Book class?
+
+
+
     return 0;
 }
