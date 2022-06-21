@@ -16,6 +16,7 @@ using namespace std;
 int main(int argc, char *argv[]) {
 ////    How do you run the code?
 
+
 ////    What are command-line arguments?
 
 
@@ -65,8 +66,6 @@ int main(int argc, char *argv[]) {
 
 
 ////    How do you fix this problem?
-
-
 
 
 ////    How should the data inside an object be protected?
